@@ -13,7 +13,7 @@ The [Aces Relations Dataset](http://ais.informatik.uni-freiburg.de/slamevaluatio
 
 
 ### Results
-<img src="assets/CSM.gif" alt="CSM Result GIF" width="300">
+<img src="assets/CSM.gif" alt="CSM Result GIF" width="450">
 
 |   Before   |   After   |
 |:----------:|:---------:|
